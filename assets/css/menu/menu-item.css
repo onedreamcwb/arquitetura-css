@@ -1,0 +1,9 @@
+.menu-item {
+    list-style: none;
+}
+
+/*Ultimo filho*/
+.menu-item:last-child .menu-link {
+    margin-right: 0;
+}
+
