@@ -1,6 +1,0 @@
-.receitas {
-    background: #e5e5e5;
-    display: flex;
-    flex-wrap: wrap; /*Altamaticamente irá quebrar a página. um emabaixo do outro*/
-    padding: 5rem 0 0 5rem;
-}
