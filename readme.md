@@ -24,3 +24,5 @@ Nessa aula, aprendemos:
 a utilizar seletores CSS mais simples;
 a organizar e estruturar os arquivos css do projeto;
 Metodologia Atomic Design.
+Metodologia BEM aplicada
+Criação banner e sobre
