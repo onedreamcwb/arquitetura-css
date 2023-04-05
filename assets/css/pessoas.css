@@ -1,6 +1,6 @@
 .pessoas {
     display: flex;
-    padding: top 3rem;
     justify-content: space-around; /*espaço entre todas as caixas*/
+    padding: top 3rem;
 
 }

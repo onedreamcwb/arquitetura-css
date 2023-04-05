@@ -26,3 +26,7 @@ a organizar e estruturar os arquivos css do projeto;
 Metodologia Atomic Design.
 Metodologia BEM aplicada
 Criação banner e sobre
+Ordem Alfabética o CSS é considerado uma boa prática.
+Imagens ilustrativas devem estar referenciadas em nossos arquivos .css
+Boas práticas com importação de imagens;
+A manter as estilizações nos arquivos de estilo.
